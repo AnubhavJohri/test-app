@@ -1,4 +1,5 @@
 import React from "react" ;
+import 'bootstrap/dist/css/bootstrap.min.css';
 // var gcloud = require('gcloud') ;
 
 export default class Home extends React.Component{
